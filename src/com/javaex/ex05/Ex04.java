@@ -10,7 +10,6 @@ public class Ex04 {
 		int[] intArray2 = {9,8,7,6,5};*/
 		
 		int[] intArray = new int[5];
-		
 		intArray[0] = 3;
 		intArray[1] = 6;
 		intArray[2] = 9;

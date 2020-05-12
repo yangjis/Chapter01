@@ -18,7 +18,7 @@ public class Ex06 {
 			System.out.println("arrA[" + i + "]= " + arrA[i]);
 		}
 		
-		System.out.println("------------------------------");
+		System.out.println("----------------------------");
 		
 		for(int i = 0; i < arrB.length; i++) {
 			System.out.println("arrB[" + i + "]= " + arrB[i]);
@@ -33,7 +33,7 @@ public class Ex06 {
 			System.out.println("arrA[" + i + "]= " + arrA[i]);
 		}
 		
-		System.out.println("------------------------------");
+		System.out.println("----------------------------");
 		
 		for(int i = 0; i < arrA.length; i++) {
 			System.out.println("arrB[" + i + "]= " + arrB[i]);

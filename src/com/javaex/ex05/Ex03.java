@@ -14,8 +14,7 @@ public class Ex03 {
 		intArray[3] = 2;
 		intArray[4] = 55;
 		
-		/*
-		 *System.out.println("방법1-------------------------------------------")
+		/*System.out.println("방법1-------------------------------------------")
 		System.out.println(intArray[0]);
 		System.out.println(intArray[1]);
 		System.out.println(intArray[2]);
