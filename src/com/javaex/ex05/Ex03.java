@@ -23,7 +23,14 @@ public class Ex03 {
 		System.out.println("-------------------------------------------------");
 		*/
 		
-		for(int i = 0; i < 5; i++) {
+		/*for(int i = 0; i < 5; i++) {
+			System.out.println(intArray[i]);
+		}
+		
+		System.out.println("--------------------------------------------------");
+		*/
+
+		for(int i = 0; i < intArray.length; i++) {
 			System.out.println(intArray[i]);
 		}
 		
