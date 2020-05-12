@@ -21,6 +21,7 @@ public class Ex01 {
 //		System.out.println(var03);
 		
 		long lvar01 =2354864898212335139l;
+		
 		System.out.println(lvar01);
 		
 	}

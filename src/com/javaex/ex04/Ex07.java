@@ -4,7 +4,6 @@ package com.javaex.ex04;
 public class Ex07 {
 
 	public static void main(String[] args) {
-
 		int i = 1;
 		
 		while(i < 100) {

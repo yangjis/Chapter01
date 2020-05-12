@@ -8,6 +8,7 @@ public class Ex10 {
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);
+		
 		int sum = 0;
 		int result = 0;
 		int num = 0;
@@ -24,6 +25,7 @@ public class Ex10 {
 		}while(num != 0);
 		
 		System.out.println("졸료");
-
+		
+		scan.close();
 	}
 }

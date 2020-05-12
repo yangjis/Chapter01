@@ -3,7 +3,8 @@ package com.javaex.ex04;
 //구구단 출력
 public class Ex05 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args){
+		
 		int x;
 		int y;
 		

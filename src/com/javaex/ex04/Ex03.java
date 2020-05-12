@@ -5,7 +5,9 @@ import java.util.Scanner;
 public class Ex03 {
 
 	public static void main(String[] args) {
+		
 		Scanner scan = new Scanner(System.in);
+		
 		System.out.println("단을 입력해주세요");
 		System.out.println("단 : ");
 		int dan = scan.nextInt();

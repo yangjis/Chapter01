@@ -13,8 +13,6 @@ public class Ex04 {
 		
 		
 		
-		
-		
 		System.out.println("---------------------------------------------");
 		
 		int sum = 0;
